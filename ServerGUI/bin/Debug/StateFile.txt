@@ -1,0 +1,4 @@
+[2024-04-02 7:45:00 PM]: Client login failed
+[2024-04-02 7:45:05 PM]: Client login successful
+[2024-04-02 7:45:09 PM]: Client login failed
+[2024-04-02 7:45:12 PM]: Client login successful
